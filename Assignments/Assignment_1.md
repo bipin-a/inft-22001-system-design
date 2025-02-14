@@ -3,6 +3,8 @@
 ### **Objective**
 The goal of this assignment is to develop documentation that outlines the design process for an ML application that will be deployed as an API. This documentation will serve as a blueprint for an upcoming project where students will implement, train, evaluate, and deploy an ML model as a cloud-based API using Docker.
 
+I suggest looking into Miro https://miro.com/app/dashboard/ or app.diagrams https://app.diagrams.net/ or Lucid Chart https://www.lucidchart.com/ for your diagram needs.
+
 ### **Scope of the Assignment**
 You are required to prepare the following documentation:
 
