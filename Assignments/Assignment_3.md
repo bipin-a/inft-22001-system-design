@@ -79,7 +79,7 @@ Based on your analysis, briefly outline improvements for a similar project:
 
 ## Submission Requirements
 - **Format**: PDF
-- **Length**: 5-7 pages, single-spaced
+- **Length**: 2-4 pages, single-spaced.
 - **Visual Elements**: Include 1–2 optional diagrams (if useful, e.g., SDLC mapping, API architecture). Visuals are not required but may clarify your analysis. Focus on quality of reflection over visuals.
 
 
